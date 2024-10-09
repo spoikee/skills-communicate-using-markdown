@@ -6,6 +6,12 @@
 
 #### Header 4
 
+#### Task List
+
+- [X] List syntax is required
+- [X] This item is complete
+- [ ] This item is not complete
+
 ##### Header 5
 
 ##### Example 1
